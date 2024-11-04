@@ -44,7 +44,10 @@ void loop() {
 ---
 
 ### عکس مدار
-![micro and circuit](/pic/microprocessor1.jpg)
+
+<div align="center">
+<img src="/pic/microprocessor1.jpg">
+</div>
 
 ---
 
