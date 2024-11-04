@@ -44,21 +44,12 @@ void loop() {
 
 ### تصویر مدار
 
-<br>
 
-<div align="center">
-<img src="/pic/microprocessor1.jpg">
-</div>
-
+![pic micro](/pic/microprocessor1.jpg)
 ---
 
 ### شماتیک مدار 
 
-<br>
-
-<div align="center">
-<img src="/pic/schematic_10.jpg" width="600px" height="300px">
-</div>
-
+![pic micro](/pic/schematic_10.jpg)
 
 
