@@ -43,8 +43,8 @@ void loop() {
 
 ---
 
-### تصویر مدار
-![pic micro](/pic/microprocessor1.jpg)
+### عکس مدار
+![micro and circuit](/pic/microprocessor1.jpg)
 
 ---
 
